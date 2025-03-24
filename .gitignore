@@ -49,3 +49,4 @@ po/*~
 rsconnect/
 *.jpg
 .DS_Store
+GANFD/GANFD_Data_v1.xlsx
